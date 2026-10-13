@@ -16,4 +16,26 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
+  padding:24px;
 }
+
+.cabecalho-imagem {
+   width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.cabecalho-menu{
+}
+
+.rodape-imagem{
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+
