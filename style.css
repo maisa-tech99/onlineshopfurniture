@@ -75,7 +75,7 @@ font-size: 24px;
 color: 111111;  
 }
 
-.conteudo-principal-escrito-botao [
+.conteudo-principal-escrito-botao {
 background-color: 258cff;
 width:180px;
 height:60px;
