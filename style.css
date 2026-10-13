@@ -33,14 +33,14 @@ body {
 
 .cabecalho-menu-item{
   font-family: "Manrope", sans-serif;
-  color: #111111;
+  color: 111111;
   font-weight: 400;
   font-size: 18px;
 }
 
 .conteudo {
 margin-bottom: 48px;
-border-top: 0.4px solid #FFF2E7;
+border-top: 0.4px solid FFF2E7;
 }
 
 .conteudo-principal {
