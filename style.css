@@ -27,7 +27,23 @@ body {
 }
 
 .cabecalho-menu{
+  display:flex;
+  gap: 32px;
 }
+
+.cabecalho-menu-item{
+  font-family: "Manrope", sans-serif;
+  color: #111111;
+  background: #f2f0eb;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+
+
+
+
+
 
 .rodape-imagem{
   width: 96px;
