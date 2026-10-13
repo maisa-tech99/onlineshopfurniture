@@ -56,6 +56,28 @@ flex-direction: column;
 gap: 32px;
 }
 
+.conteudo-principal-escrito-paragrafo {
+color: 1683ff;
+}
+
+.conteudo-principal-escrito-titulo {
+font-family: "DM Serif Display", serif;
+font-weight: 400;
+font-size: 64px;
+color: 111111;
+}
+
+.conteudo-principal-subtitulo {
+font-family: "DM Serif Display", serif;  
+font-weight: 400;
+font-size: 24px;
+color: 111111;  
+}
+
+.conteudo-principal-escrito-botao [
+background-color:;
+}
+
 
 .rodape-imagem{
   width: 96px;
