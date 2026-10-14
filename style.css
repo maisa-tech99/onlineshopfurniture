@@ -8,7 +8,7 @@
 
 body {
   font-size:100%;
-  background:FFFFFF;
+  background:linear-gradient(to right, #000000, #0603e4);
 }
 
 .cabecalho {
@@ -26,12 +26,12 @@ body {
   border-radius: 50%;
 }
 
-.cabecalho-menu{
+.cabecalho-menu {
   display:flex;
   gap: 32px;
 }
 
-.cabecalho-menu-item{
+.cabecalho-menu-item {
   font-family: "Manrope", sans-serif;
   color: 111111;
   font-weight: 400;
@@ -56,10 +56,6 @@ flex-direction: column;
 gap: 32px;
 }
 
-.conteudo-principal-escrito-paragrafo {
-color: 1683ff;
-}
-
 .conteudo-principal-escrito-titulo {
 font-family: "DM Serif Display", serif;
 font-style: italic;
@@ -76,12 +72,16 @@ color: 111111;
 }
 
 .conteudo-principal-escrito-botao {
-background-color: 111111;
+background-color: 002fd4;
 width:180px;
 height:60px;
 border:none;
 box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
 border-radius: 20px;
+font-family: "DM Serif Display", serif;  
+font-weight: 400;
+font-size: 24px;
+color: 111111;
 }
 
 
